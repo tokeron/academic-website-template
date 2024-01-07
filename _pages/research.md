@@ -34,8 +34,18 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>Explaining text encoder in text to image models</h4>
 
-Example description
+In this work we aim to understand better how text encoders encode information in the context of text to image generation piplines.
+
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>Exploring the space of seeds in diffusion models</h4>
+
+Is this work we aim to understand better how the seed space influence the image generation proccess.
+
 </div>
 </div>
