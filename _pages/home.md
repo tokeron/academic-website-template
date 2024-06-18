@@ -5,9 +5,21 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+<style>
+  .content {
+    max-width: 90%; /* Adjust this value to increase or decrease text width */
+    margin: auto;
+  }
+</style>
 
-Hello and welcome to my webpage! I’m Michael Toker, a PhD candidate and a passionate researcher in the field of natural language processing. On this webpage, you can find out more about me, my work, and my interests. I’m fascinated by how language models encode information and how we can make them more explainable and robust. If you share my curiosity and enthusiasm, I invite you to read on and explore my projects. You can also reach out to me anytime if you have any questions or comments. Thank you for visiting and enjoy!
+<div class="content">
+  <h3>Welcome!</h3>
+  <p>Hello and welcome to my webpage! I’m Michael Toker, a PhD candidate and a passionate researcher in the field of natural language processing. On this webpage, you can find out more about me, my work, and my interests. I’m fascinated by how language models encode information and how we can make them more explainable and robust. If you share my curiosity and enthusiasm, I invite you to read on and explore my projects. You can also reach out to me anytime if you have any questions or comments. Thank you for visiting and enjoy!</p>
+</div>
+
+<!-- ### Welcome!
+
+Hello and welcome to my webpage! I’m Michael Toker, a PhD candidate and a passionate researcher in the field of natural language processing. On this webpage, you can find out more about me, my work, and my interests. I’m fascinated by how language models encode information and how we can make them more explainable and robust. If you share my curiosity and enthusiasm, I invite you to read on and explore my projects. You can also reach out to me anytime if you have any questions or comments. Thank you for visiting and enjoy! -->
 
 <div class="container">
 <div class="row">
