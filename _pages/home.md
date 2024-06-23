@@ -12,10 +12,7 @@ permalink: /
   }
 </style> -->
 
-<div class="content">
-  <h3>Welcome!</h3>
-  <p>Welcome to my webpage! I'm Michael Toker, a PhD candidate and researcher in natural language processing. I'm fascinated by how LLMs encode information and how to make llms more explainable and robust. If you share my curiosity, explore my projects and feel free to reach out with any questions or comments.</p>
-</div>
+Welcome to my webpage! I'm Michael Toker, a PhD candidate and researcher in natural language processing. I'm fascinated by how LLMs encode information and how to make llms more explainable and robust. If you share my curiosity, explore my projects and feel free to reach out with any questions or comments.
 
 <!-- ### Welcome!
 
