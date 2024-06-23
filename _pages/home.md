@@ -7,7 +7,7 @@ permalink: /
 
 <style>
   .content {
-    max-width: 120%; /* Adjust this value to increase or decrease text width */
+    max-width: 100%; /* Adjust this value to increase or decrease text width */
     margin: auto;
   }
 </style>
