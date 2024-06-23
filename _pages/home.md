@@ -5,14 +5,14 @@ sitemap: false
 permalink: /
 ---
 
-<!-- <style>
+<style>
   .content {
     max-width: 100%; /* Adjust this value to increase or decrease text width */
     margin: auto;
   }
-</style> -->
+</style>
 
-Welcome to my webpage! I'm Michael Toker, a PhD candidate and researcher in natural language processing. I'm fascinated by how LLMs encode information and how to make llms more explainable and robust. If you share my curiosity, explore my projects and feel free to reach out with any questions or comments.
+I'm Michael Toker, a PhD candidate and NLP researcher in the computer science faculty at the Technion. I'm fascinated by how LLMs encode information and how to make llms more explainable and robust. If you share my curiosity, explore my projects and feel free to reach out with any questions or comments.
 
 <!-- ### Welcome!
 
