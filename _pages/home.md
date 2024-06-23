@@ -5,12 +5,12 @@ sitemap: false
 permalink: /
 ---
 
-<style>
+<!-- <style>
   .content {
     max-width: 100%; /* Adjust this value to increase or decrease text width */
     margin: auto;
   }
-</style>
+</style> -->
 
 <div class="content">
   <h3>Welcome!</h3>
