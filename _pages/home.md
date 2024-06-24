@@ -43,8 +43,7 @@ Hi, I’m Michael Toker, a PhD candidate at the Technion's CS faculty. I work in
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8qEeumJL_FM/0.jpg)](https://www.youtube.com/watch?v=8qEeumJL_FM)
 
-<div class="jumbotron" style="max-width: 100%; margin: auto;">
 ### Publications
+
 {% bibliography --query @inproceedings %}
 {% bibliography --query @article %}
-</div>
