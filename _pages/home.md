@@ -42,3 +42,7 @@ Hi, I’m Michael Toker, a PhD candidate at the Technion's CS faculty. I work in
 #### A journey from text to image - NLP IL - Vision-Language Club #1
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8qEeumJL_FM/0.jpg)](https://www.youtube.com/watch?v=8qEeumJL_FM)
+
+### Publications
+
+{% include pages.research.md %}
