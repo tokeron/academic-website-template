@@ -45,6 +45,4 @@ Hi, I’m Michael Toker, a PhD candidate at the Technion's CS faculty. I work in
 
 ### Publications
 
-### Publications
-
-{% include ../_pages/research.md %}
+{% include site.pages.research %}
