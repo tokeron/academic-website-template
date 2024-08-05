@@ -12,7 +12,7 @@ permalink: /
   }
 </style>
 
-I'm Michael Toker, a PhD candidate and NLP researcher in the computer science faculty at the Technion. I'm fascinated by how LLMs encode information and how to make llms more explainable and robust. If you share my curiosity, explore my projects and feel free to reach out with any questions or comments.
+<!-- I'm Michael Toker, a PhD candidate and NLP researcher in the computer science faculty at the Technion. I'm fascinated by how LLMs encode information and how to make llms more explainable and robust. If you share my curiosity, explore my projects and feel free to reach out with any questions or comments. -->
 
 <!-- ### Welcome!
 
@@ -31,7 +31,7 @@ Hello and welcome to my webpage! I’m Michael Toker, a PhD candidate and a pass
 
 ### About me
 
-Hi, I’m Michael Toker, a PhD candidate at the Technion's CS faculty. I work in the NLP research group under Prof. Yonatan Belinkov. My research focuses on the explainability and robustness of language models. I aim to understand how these models encode information and how to make them more reliable and trustworthy. I'm a strong advocate for visualizations.
+I’m Michael Toker, a PhD student at the Technion's Computer Science faculty, part of the NLP research group under Prof. Yonatan Belinkov. My research focuses on the explainability and robustness of language models. I aim to understand how these models encode information and how to make them more reliable. My recent work focuses on text-to-image (T2I) models and the role of the text encoder in these models. We published a paper in the ACL 2024 main conference, proposing a new method called 'Diffusion Lens,' which aims to interpret T2I models by generating images from their intermediate calculations. Currently, I am working on understanding how information flows in the text encoder in T2I models and on extending our method to apply to any large language models (LLMs) and vision-language models (VLMs).
 
 <!-- In my last work, titled “Diffusion Lens”, I developed a method to generate images from intermediate representations of the language model. Using this method, I found that the text encoder gradually builds prompt representations across multiple scenarios. This work is part of a series of projects that aim to shed light on the inner workings of language models. You can find my publications, code, and images on this webpage. Feel free to contact me if you have any questions or comments. -->
 
