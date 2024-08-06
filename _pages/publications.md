@@ -73,7 +73,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <p>* indicates equal contribution.</p>
 <div class="columns publication-container">
   <div class="column is-one-third">
-    <img src="static/videos/astronaut_dog_sd3.gif" alt="Astronaut Dog">
+    <img src="_data/diffusionLens.gif" alt="Diffusion Lens">
   </div>
   <div class="column is-two-thirds">
     <p><strong>Diffusion Lens with Stable Diffusion 3: Images generated from different intermediate layers of the text encoder using our method, Diffusion Lens.</strong></p>
