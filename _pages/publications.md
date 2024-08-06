@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Publications"
 layout: gridlay
 sitemap: false
@@ -25,9 +25,9 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 ### Publications
 {% bibliography --query @inproceedings %}
 {% bibliography --query @article %}
-</div> -->
+</div>
 
----
+<!-- ---
 
 title: "Publications"
 layout: gridlay
@@ -73,7 +73,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 <p>* indicates equal contribution.</p>
 <div class="columns publication-container">
   <div class="column is-one-third">
-    <img src="_data/diffusionLens.gif" alt="Diffusion Lens">
+    <img src="_data/diffusionLens.gif" alt="diffusion Lens">
   </div>
   <div class="column is-two-thirds">
     <p><strong>Diffusion Lens with Stable Diffusion 3: Images generated from different intermediate layers of the text encoder using our method, Diffusion Lens.</strong></p>
@@ -84,4 +84,4 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
     <p><a href="https://arxiv.org/abs/2403.05846" target="_blank">arXiv</a></p>
   </div>
 </div>
-</div>
+</div> -->
