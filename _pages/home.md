@@ -37,9 +37,9 @@ I’m Michael Toker, a PhD student at the Technion's Computer Science faculty, p
 
 <br/>
 
-### Recent Talks
+# Recent Talks
 
-#### A journey from text to image - NLP IL - Vision-Language Club #1
+## A journey from text to image - NLP IL - Vision-Language Club #1
 
 <!-- Youtube video -->
 <section class="hero is-small is-light">
@@ -59,8 +59,6 @@ I’m Michael Toker, a PhD student at the Technion's Computer Science faculty, p
   </div>
 </section>
 <!-- End youtube video -->
-
-#### Diffusion Lens - NLP IL - Vision-Language Club #6
 
 <!-- Youtube video -->
 <section class="hero is-small is-light">
