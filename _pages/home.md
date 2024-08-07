@@ -41,7 +41,45 @@ I’m Michael Toker, a PhD student at the Technion's Computer Science faculty, p
 
 #### A journey from text to image - NLP IL - Vision-Language Club #1
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8qEeumJL_FM/0.jpg)](https://www.youtube.com/watch?v=8qEeumJL_FM)
+<!-- Youtube video -->
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <!-- Paper video. -->
+      <h2 class="title is-3 has-text-centered">Video Presentation</h2>
+      <div class="columns is-centered">
+        <div class="column is-four-fifths">
+          <div class="publication-video">
+            <!-- Youtube embed code here -->
+            <iframe src="https://www.youtube.com/embed/8qEeumJL_FM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End youtube video -->
+
+#### Diffusion Lens - NLP IL - Vision-Language Club #6
+
+<!-- Youtube video -->
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <!-- Paper video. -->
+      <h2 class="title is-3 has-text-centered">Video Presentation</h2>
+      <div class="columns is-centered">
+        <div class="column is-four-fifths">
+          <div class="publication-video">
+            <!-- Youtube embed code here -->
+            <iframe src="https://www.youtube.com/embed/hAZr8pjyt-Y?start=506" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End youtube video -->
 
 ### Publications
 
